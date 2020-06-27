@@ -7,8 +7,8 @@ The `bootloader.bin` file is a direct dump of the flash content. Meanwhile the `
 for my current reversing work.
 
 # Other Resources
-Look around in this Github Org it has all kind of information about the Anne Pro 2. Inclduing a copy of my current reversing
+Look around in this Github Org, it has all kind of information about the Anne Pro 2. Including a copy of my current reversing
 schematics.
 
 # Contributing
-If you are interested in helping out, feel free to look around in this Org or contact me Codetector<codetector@codetector.org>.
+If you are interested in helping out, feel free to look around in this Org or contact me Codetector <codetector@codetector.org>.
